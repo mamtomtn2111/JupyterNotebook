@@ -1,0 +1,13 @@
+Check data person [1] - Error found : ['Tran Thi Lan', '15/15/1988', 'Nu']
+time data '15/15/1988' does not match format '%d/%m/%Y'
+
+Check data person [3] - Error found : ['Tran Manh Long', '1990', 'Nam']
+time data '1990' does not match format '%d/%m/%Y'
+
+Check data person [4] - Error found : ['Tran Ly Phuoc', ' 2/3/1981', '']
+That is no Gender!
+
+Final data imported to CSV:
+                  Name   BirthDate Age Gender
+0       Nguyen Van An  20/10/1985  35    Nam
+1  Nguyen Ngoc Phuong   11/7/1992  29     Nu

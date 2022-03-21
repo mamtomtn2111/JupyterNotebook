@@ -1,0 +1,15 @@
+{
+    "username": "1",
+    "Logging": [
+        {
+            "DateTime": "17/08/2021 19:43:44",
+            "Search Option": "ram",
+            "Search Result": "16 GB"
+        },
+        {
+            "DateTime": "17/08/2021 19:43:49",
+            "Search Option": "architecture",
+            "Search Result": "AMD64"
+        }
+    ]
+}

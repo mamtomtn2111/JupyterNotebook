@@ -1,0 +1,16 @@
+Check data person [1] - ['Ha Le Thu', ' 100000', ' Vnd', ' Provider']:
+Error found : Salary isn't in the range [1m - 50m] or none data !
+
+Check data person [2] - ['', '15000000', 'Vnd', 'Hacker']:
+Error found : There is no name !
+
+Check data person [3] - ['God', ' 50000000', ' Vnd', ' Hacker']:
+Error found : The company don't have this position: ' Hacker' or none data !
+
+Check data person [5] - ['Bui Van Ha', '-45000000', 'Vnd', 'Leader']:
+Error found : Salary isn't in the range [1m - 50m] or none data !
+
+            Name      Salary  Unit    Position
+0  Nguyen Van An  10000000.0   Vnd   Developer
+1  Nguyen Vu Hai  30000000.0   Vnd     Manager
+2     John Smith  12345678.0   Vnd          HR

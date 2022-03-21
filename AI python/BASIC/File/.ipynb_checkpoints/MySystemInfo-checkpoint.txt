@@ -1,0 +1,7 @@
+Your Current DateTime : 14/08/2021 20:36:25
+Your Computer Info : 
+	Machine: AMD64 
+	Platform: Windows-10-10.0.19041-SP0
+	System: Windows 
+	Processor: Intel64 Family 6 Model 45 Stepping 7, GenuineIntel
+	Name of user: Nguyen Vu Hai
